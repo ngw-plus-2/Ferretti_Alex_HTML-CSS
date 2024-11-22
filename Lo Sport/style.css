@@ -1,0 +1,37 @@
+/*decorazione titolo*/
+.titolo{
+    font-size: 500%;
+    color: darkred; 
+    text-align: center; 
+    background-color: rgb(0, 0, 0);
+    font-weight: 200px;
+}
+.sottotitolo{
+    font-size: 250%;
+    text-align: center;
+    background-color: darkred;
+}
+/*prima parte*/
+.culturismo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:150%;
+    position: relative;
+    width: 45%;
+    background-color:lightcoral;
+    border: 2px solid black;
+}
+.foto_cbum{
+    position:relative;
+    width: 50%; 
+}
+/*grafico*/
+.categorie{
+    background-color: rgb(0, 0, 0);
+    color: crimson;
+}
+@media (max-width: 768px){
+    
+}
+    
+
+
